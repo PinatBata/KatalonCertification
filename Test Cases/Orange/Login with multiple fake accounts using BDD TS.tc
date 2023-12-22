@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with multiple fake accounts using BDD TS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e1d9d9c-5237-4c53-8f99-4c0bdec1174c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with fake account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c753c59-f066-4e26-bb45-ea720a5ad82c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cb4d6d2-778c-4439-b4ce-2d5ff1694a1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2909d4cd-a0f7-46d9-b040-384c3aca4b6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hehehe@gmail.com'</defaultValue>
+      <description></description>
+      <id>9cb4d6d2-778c-4439-b4ce-2d5ff1694a1d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hehehe'</defaultValue>
+      <description></description>
+      <id>2909d4cd-a0f7-46d9-b040-384c3aca4b6b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

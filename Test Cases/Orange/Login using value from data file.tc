@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login using value from data file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2756279-2acc-4bbc-b6a8-56ce49370860</testCaseGuid>
+</TestCaseEntity>
